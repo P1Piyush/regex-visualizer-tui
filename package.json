@@ -1,0 +1,11 @@
+{
+  "name": "regex-visualizer-tui",
+  "version": "1.0.0",
+  "description": "Understand and debug complex regex patterns visually in the terminal.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "P1Piyush",
+  "license": "MIT"
+}
